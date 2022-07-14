@@ -1,0 +1,49 @@
+
+{
+    "Users": [
+
+
+            { "email":"rodrigo@gmail.com" , "uid": 1},
+            { "email":"tefa@gmail.com" , "uid": 2},
+            { "email":"yonela@gmail.com" , "uid": 3}
+      ],
+
+
+      "Book": [
+
+
+        { "precio": "100", "libro": "harry potter", "uid": 1},
+        { "precio": "200", "libro": "El Hobbit", "uid": 2},
+        { "precio": "150", "libro": "luna de pluton", "uid": 3}
+
+      ],
+
+
+      "Accion":[
+          
+          { "id": 1, "titulo": "harry potter", "image": "https://resumiendolo.com/wp-content/uploads/2018/02/harry-potter-y-la-piedra-filosofal-1-602x1024.jpg?ezimgfmt=ng%3Awebp%2Fngcb1%2Frs%3Adevice%2Frscb1-1", "precio": "200"},
+          { "id": 2, "titulo": "El hobbit", "image": "https://images.cdn1.buscalibre.com/fit-in/360x360/64/5a/645a266ad363ee0d35c864d50180845c.jpg", "precio": "300"},
+          { "id": 3, "titulo": "Codigo Da Vinci", "image": "https://static.wikia.nocookie.net/literatura/images/7/7b/El_codigo_Da_vinci.jpg/revision/latest?cb=20121028200916&path-prefix=es", "precio": "400"},
+          { "id": 4, "titulo": "Los juegos del hambre", "image": "https://images-na.ssl-images-amazon.com/images/I/61i8nC90deL.jpg", "precio": "320"},
+          { "id": 5, "titulo": "Mobidick", "image": "https://blurb-pdf-processing-service-prod-preflight.s3.amazonaws.com/default/blurb/P14553439/preview_72dpi/cover-trim-no-fold-front_cover-04777390-d7db-406e-a9a7-2d30ae662258.jpg", "precio": "200"},
+          { "id": 6, "titulo": "La Odisea", "image": "https://image.isu.pub/200225175226-59e9e033221eb509822f0b17a206ecbd/jpg/page_1.jpg", "precio": "270"},
+          { "id": 7, "titulo": "Angeles y demonios", "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427923485l/25265146.jpg", "precio": "180"},
+          { "id": 8, "titulo": "Fortaleza Digital", "image": "https://www.planetadelibros.com.pe/usuaris/libros/fotos/263/m_libros/262818_portada_fortaleza-digital_dan-brown_201709020210.jpg", "precio": "123"},
+          { "id": 9, "titulo": "Sherlock Holmes", "image": "https://www.mflibreria.com/wp-content/uploads/2021/07/sherlock.jpg", "precio": "523"},
+          { "id": 10, "titulo": "The Dark Knight", "image": "https://d3dfsf9oc1ojzp.cloudfront.net/original/4X/7/c/5/7c5b30d25ea9a6f083c67c8d7f453100990ffb38.jpeg", "precio": "50"},
+          { "id": 11, "titulo": "Caballero Carmelo", "image": "https://www.loqueleo.com/pe/uploads/2017/10/resized/800_9789972005220.jpg", "precio": "600"},
+          { "id": 12, "titulo": "La metamorfosis", "image": "https://i.pinimg.com/originals/cc/9e/01/cc9e01e9888d9e01f7dcef2b49e931bd.jpg", "precio": "223"},
+          { "id": 13, "titulo": "Tom Sawyer", "image": "https://www.topimagenes.net/wp-content/uploads/2015/06/tom-sawyer-7-portada-libro-las-aventuras-de-tom-sawyer.jpg", "precio": "333"},
+          { "id": 14, "titulo": "The Witcher", "image": "https://www.hachettebookgroup.com/wp-content/uploads/2021/04/Tweet1_Witcher_Cover.jpg?fit=438%2C675", "precio": "700"},
+          { "id": 15, "titulo": "Percy Jackson", "image": "https://pm1.narvii.com/6317/d2a46beba80c2eb5cad6dcc6e49ac38bb509612d_hq.jpg", "precio": "668"},
+          { "id": 16, "titulo": "Cronicas de Narnia", "image": "https://images-na.ssl-images-amazon.com/images/I/51-8eQ-s9oL._SX331_BO1,204,203,200_.jpg", "precio": "245"},
+          { "id": 17, "titulo": "Las mil y una noches", "image": "https://editorial-adarve.com/wp-content/uploads/2018/03/Portada-del-libro-Las-mil-y-una-noches.jpg", "precio": "256"},
+          { "id": 18, "titulo": "El mago de Oz", "image": "https://www.lahiguera.net/musicalia/artistas/mago_de_oz/disco/11003/tema/24337/mago_de_oz_el_cervezo_el_arbol_de_la_birra-portada.jpg", "precio": "800"},
+          { "id": 19, "titulo": "Watchmen", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Watchmen-cover.svg/1200px-Watchmen-cover.svg.png", "precio": "299"},
+          { "id": 20, "titulo": "El libro De Mormón", "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384626105l/12364846.jpg", "precio": "125"}
+          
+      ]
+          
+      
+      
+}
